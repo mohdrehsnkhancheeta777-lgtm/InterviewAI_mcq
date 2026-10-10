@@ -6,7 +6,6 @@ from pathlib import Path
 from datetime import datetime
 
 import streamlit as st
-from google import genai
 
 # ==================================================
 # CONFIGURATION
